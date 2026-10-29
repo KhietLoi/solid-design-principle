@@ -1,0 +1,15 @@
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.AssemblyInfoInputs.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.AssemblyInfo.cs
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.csproj.CoreCompileInputs.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.sourcelink.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\bin\Debug\net10.0\single-responsibility-principle.exe
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\bin\Debug\net10.0\single-responsibility-principle.deps.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\bin\Debug\net10.0\single-responsibility-principle.runtimeconfig.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\bin\Debug\net10.0\single-responsibility-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\bin\Debug\net10.0\single-responsibility-principle.pdb
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\refint\single-responsibility-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.pdb
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\single-responsibility-principle.genruntimeconfig.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\single-responsibility-principle\obj\Debug\net10.0\ref\single-responsibility-principle.dll
