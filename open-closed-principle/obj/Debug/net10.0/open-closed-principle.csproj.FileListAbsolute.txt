@@ -1,0 +1,15 @@
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\bin\Debug\net10.0\open-closed-principle.exe
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\bin\Debug\net10.0\open-closed-principle.deps.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\bin\Debug\net10.0\open-closed-principle.runtimeconfig.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\bin\Debug\net10.0\open-closed-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\bin\Debug\net10.0\open-closed-principle.pdb
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.AssemblyInfoInputs.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.AssemblyInfo.cs
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.csproj.CoreCompileInputs.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.sourcelink.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\refint\open-closed-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.pdb
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\open-closed-principle.genruntimeconfig.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\open-closed-principle\obj\Debug\net10.0\ref\open-closed-principle.dll
