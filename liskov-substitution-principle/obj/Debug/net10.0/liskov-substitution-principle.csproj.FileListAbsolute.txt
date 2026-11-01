@@ -1,0 +1,15 @@
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\bin\Debug\net10.0\liskov-substitution-principle.exe
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\bin\Debug\net10.0\liskov-substitution-principle.deps.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\bin\Debug\net10.0\liskov-substitution-principle.runtimeconfig.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\bin\Debug\net10.0\liskov-substitution-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\bin\Debug\net10.0\liskov-substitution-principle.pdb
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.AssemblyInfoInputs.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.AssemblyInfo.cs
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.csproj.CoreCompileInputs.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.sourcelink.json
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\refint\liskov-substitution-principle.dll
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.pdb
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\liskov-substitution-principle.genruntimeconfig.cache
+C:\Users\lpn31\Computer\DotNet_Tutorial\SOLID\liskov-substitution-principle\obj\Debug\net10.0\ref\liskov-substitution-principle.dll
